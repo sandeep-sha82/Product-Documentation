@@ -1,0 +1,26 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.darkbackground {
+    background: linear-gradient(to top, #373737, #212121);
+    padding: 20px 0px;
+    color: #fff;
+}
+
+.text-center{
+    text-align: center;
+}
+section{
+    padding-bottom: 50px
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
