@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Maropost Marketing Cloud</title>
+    <title>Maropost Marketing Cloud v1</title>
   </head>
   <body>
     <h1 style="text-align: center;">Title goes here</h1>
